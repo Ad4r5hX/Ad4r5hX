@@ -15,10 +15,7 @@ I'm excited to explore the world of coding and learn new things along the way. I
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Intermediate-green?style=flat-square)
 
-# GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad4r5hX&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad4r5hX&layout=compact&theme=radical)
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad4r5hX&show_icons=true&theme=radical&cache_seconds=180)
 
 # GitHub Trophies 🏆
 
