@@ -11,8 +11,11 @@ I'm excited to explore the world of coding and learn new things along the way. I
 - I love discovering new tech and trying things out.
 - I'm currently learning coding step by step!
 
-# GitHub Stats
+## Currently Learning 📘
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Intermediate-green?style=flat-square)
 
+# GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad4r5hX&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad4r5hX&layout=compact&theme=radical)
@@ -21,7 +24,7 @@ I'm excited to explore the world of coding and learn new things along the way. I
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ad4r5hX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Ad4r5hX&color=blueviolet)
 Feel free to check out my repositories, and don't hesitate to connect if you want to collaborate!
 
 <!-- Replace the link with your own GitHub profile link -->
