@@ -11,6 +11,12 @@ I'm excited to explore the world of coding and learn new things along the way. I
 - I love discovering new tech and trying things out.
 - I'm currently learning coding step by step!
 
+# GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
 Feel free to check out my repositories, and don't hesitate to connect if you want to collaborate!
 
 <!-- Replace the link with your own GitHub profile link -->
