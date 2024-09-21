@@ -17,6 +17,11 @@ I'm excited to explore the world of coding and learn new things along the way. I
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad4r5hX&layout=compact&theme=radical)
 
+# GitHub Trophies 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ad4r5hX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 Feel free to check out my repositories, and don't hesitate to connect if you want to collaborate!
 
 <!-- Replace the link with your own GitHub profile link -->
