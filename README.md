@@ -14,7 +14,7 @@ I'm excited to explore the world of coding and learn new things along the way. I
 ## Currently Learning 📘
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Intermediate-green?style=flat-square)
-![C++](https://img.shields.io/badge/Python-Intermediate-green?style=flat-square)
+![C++](https://img.shields.io/badge/C++ -Intermediate-green?style=flat-square)
 
 # GitHub Stats
 
