@@ -24,7 +24,7 @@ I'm excited to explore the world of coding and learn new things along the way. I
 
 
 # GitHub Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ad4r5hX&theme=onedark&cache_seconds=180)](https://github.com/ryo-ma/github-profile-trophy)
+# [![trophy](https://github-profile-trophy.vercel.app/?username=Ad4r5hX&theme=onedark&cache_seconds=180)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ad4r5hX&color=blueviolet)
 Feel free to check out my repositories, and don't hesitate to connect if you want to collaborate!
